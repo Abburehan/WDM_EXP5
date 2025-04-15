@@ -131,9 +131,9 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/e7b15032-cdf5-4d63-9d7e-899b5920aeb8)
+![image](https://github.com/user-attachments/assets/07542980-2bc1-4a71-be18-8506c46a90df)
 
-![image](https://github.com/user-attachments/assets/394cfce2-a481-4e24-a9e2-403fc9184292)
+![image](https://github.com/user-attachments/assets/c2048777-5940-47bb-abc9-c992fb7823a3)
 
 ### Result:
 Thus,the implementation of Information Retrieval Using Boolean Model in Python is successfully verified.
